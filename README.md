@@ -7,3 +7,4 @@
 2. [기초 흐름제어](https://github.com/young31/homeworkshop/tree/master/day02)
 3. [함수](https://github.com/young31/homeworkshop/tree/master/day03)
 4. [함수 심화 & 자료구조 메서드](https://github.com/young31/homeworkshop/tree/master/day04)
+5. [모듈 & 시간연산](https://github.com/young31/homeworkshop/tree/master/day05)
